@@ -2,6 +2,7 @@
 #### My Current Endeavors
 - I am a current Master's Student studying Computer Science and Engineering @ The University of Michigan. My focus area lies in Artificial Intelligence and Parallel Computing
 - I just wrapped up my Software Engineering internship @ Palantir Technologies where I worked as a backend developer focusing on building out User-facing APIs and SDKs to enable complex data workflows for Palantir's Customers. My work has been a key selling point for the adoption of Palantir's Foundry product to certain customers.
+- I just finished building [Aeglos.ai](https://aeglos.ai/) , a service that guards LLMs against Direct and Indirect Prompt Injection techniques. I published a [PIP](https://pypi.org/project/aeglos/) package and [documentation](https://docs.aeglos.ai/introduction) on how to use Aeglos and it's APIs to protect a system from attacks.
 #### Previous Endeavors
 - I previously worked at Ford Motor Company where I worked on the Ford SYNC 4 infotainment system to create the car's Virtual Keyboard which will be in future production vehicles serving Ford's customers.
 - I also worked as a Software Engineering Intern at Robert Bosch LLC where I worked in the autonomous driving division (ADAS) to develop data analytics tools to process and visualize machine learning data.
